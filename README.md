@@ -163,34 +163,6 @@ The project generates:
 
 ---
 
-# Folder Structure
-
-```bash
-Numerical-Programming-Web-Scraping/
-│
-├── data/
-├── notebooks/
-├── outputs/
-├── images/
-├── README.md
-├── requirements.txt
-└── Web_Scraping.ipynb
-```
-
----
-
-# requirements.txt
-
-```txt
-requests
-beautifulsoup4
-pandas
-numpy
-matplotlib
-```
-
----
-
 # Learning Outcomes
 
 After completing this project:
@@ -217,26 +189,3 @@ After completing this project:
 This project successfully demonstrates how Python can be used for web scraping and numerical data processing. The extracted data was cleaned, analyzed, and transformed into structured formats suitable for further analysis and visualization.
 
 ---
-
-# Resume Project Description
-
-### Web Scraping using Python
-
-Developed a Python-based web scraping project to extract, clean, and analyze website data using Requests, BeautifulSoup, Pandas, and NumPy. Implemented data preprocessing and numerical analysis techniques to convert unstructured web data into structured datasets for insights and visualization.
-
----
-
-# GitHub Topics / Tags
-
-```text
-python
-web-scraping
-beautifulsoup
-data-analysis
-numerical-programming
-pandas
-numpy
-automation
-data-cleaning
-jupyter-notebook
-```
